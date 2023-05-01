@@ -1,6 +1,22 @@
 # An-lisis-de-Rentabilidad
 Hardik, el jefe de finanzas de su empresa, ha solicitado algunas métricas sobre el rendimiento de las líneas de productos de The Everything Company. Hardik quiere identificar algunas áreas que pueden mejorar; le preocupa que haya áreas en las que la empresa pueda estar perdiendo dinero. 
 
+
+ Este proyecto  se analizo con Power BI donde seestablecieron 3  KPI:
+
+
+Ganancia
+
+
+Cantidad
+
+
+número de órdenes.
+
+Con un marco de panel Z, se realizo un proceso ETL y se llegaron a los resultados mostrados a continuación.
+
+
+
 Resultados
 
 La rentabilidad total parece haber sido negativa hasta octubre de 2019.
