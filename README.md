@@ -15,7 +15,7 @@ Cantidad
 número de órdenes.
 
 
-Se realizo un proceso ETL y se llegaron a los resultados mostrados a continuación.
+Se realizo un proceso el proceso de transformación-análisis y se llegaron a los resultados mostrados a continuación.
 
 
 Resultados:
